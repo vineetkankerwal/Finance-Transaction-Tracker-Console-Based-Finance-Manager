@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace Vineet_CSharp_Test
+namespace Finane_Transaction_Manager
 {
 
     public class FinanceTransaction
