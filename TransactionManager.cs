@@ -13,7 +13,7 @@ using System.Net;
 using System.Net.Mail;
 
 
-namespace Vineet_CSharp_Test
+namespace Finane_Transaction_Manager
 {
     public class TransactionManager : ITransactionManager
     {
